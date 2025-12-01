@@ -2,12 +2,7 @@
 
 <div align="center">
   <h3>🤟 Real-time American Sign Language Recognition using Machine Learning</h3>
-  <p>An intelligent ASL alphabet recognition system with landmark-based classification for accurate, real-time sign language interpretation.</p>
-  
-  <!-- Add your demo video here -->
-  <img src="output/Demo.jpg" alt="SignScribe Demo" width="600"/>
-  
-  **[📺 Demo Video](#demo-video)** • **[🚀 Features](#features)** • **[💻 Installation](#installation)** • **[📖 Usage](#usage)**
+  <p>An intelligent ASL alphabet recognition system with landmark-based classification for accurate, real-time sign language interpretation.</p>**
 </div>
 
 ---
